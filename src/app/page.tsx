@@ -179,7 +179,7 @@ export default function Home() {
       <footer>
         <Center py={8} bg="#ddd">
           <Text fontSize={["xs", "sm"]} color="gray.500">
-            © 2023 maimai880 All rights reserved.
+            © 2026 maimai880 All rights reserved.
           </Text>
         </Center>
       </footer>
